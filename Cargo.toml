@@ -7,3 +7,4 @@ edition = "2021"
 panic = 'abort'
 
 [dependencies]
+regex = "1.10.2"
